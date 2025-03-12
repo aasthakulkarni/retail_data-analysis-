@@ -1,0 +1,68 @@
+📊 Retail Data Analysis using SQL & Power BI
+📝 Project Overview
+This project focuses on analyzing retail sales data to extract valuable insights that help businesses improve decision-making. The analysis is conducted using SQL for data extraction and transformation and Power BI for data visualization.
+
+🔧 Tools Used
+SQL (Data Cleaning, Aggregation, Trend Analysis)
+Power BI (Data Visualization & Dashboard Creation)
+
+
+📌 Key Insights from SQL Analysis
+1️⃣ Top-Selling Products & Categories
+Identified the best-selling products based on total revenue and total units sold.
+Certain product categories contribute more than 60% of total revenue, indicating a need to focus on stock replenishment and promotions.
+✅ Insight: The Electronics & Home Appliances category dominates sales, suggesting potential business opportunities in this segment.
+
+2️⃣ Customer Buying Behavior
+Analyzed repeat purchases and identified high-value customers.
+Found that 20% of customers contribute to 80% of total revenue (Pareto Principle).
+✅ Insight: The business should implement a loyalty program to retain high-value customers.
+
+3️⃣ Seasonal Sales Trends
+Sales peak during festive seasons (November-December).
+Drop in sales during March-April, possibly due to budget constraints post-holiday spending.
+✅ Insight: Marketing campaigns should be boosted during low-sales months to maintain revenue flow.
+
+4️⃣ Store Performance Analysis
+Identified the top-performing stores based on revenue.
+Noticed that certain locations underperform, requiring better inventory management or promotions.
+✅ Insight: The company can optimize inventory distribution and run location-specific marketing campaigns to improve underperforming stores.
+
+📊 Power BI Dashboard Insights
+1️⃣ Total Sales Overview
+📌 Total Revenue: ₹XX Million
+📌 Total Transactions: XX,XXX
+📌 Top 5 Selling Products displayed in a bar chart
+✅ Business Impact: Helps stakeholders track performance at a glance.
+
+2️⃣ Customer Segmentation
+High-Spending Customers: Identified based on revenue contribution.
+New vs Returning Customers: Returning customers contribute 70% of revenue, proving the importance of customer retention strategies.
+✅ Business Impact: Enables targeted marketing strategies.
+
+3️⃣ Geographic Sales Distribution
+Heatmap showing store locations
+Top Cities contributing to revenue
+✅ Business Impact: Helps in expansion planning and regional promotions.
+
+
+4️⃣ Monthly Sales Trend Analysis
+Line chart showing sales trends
+Peak in Q4 and drop in Q2 identified
+✅ Business Impact: Helps in budget allocation for marketing and inventory planning.
+
+📥 Files in Repository
+SQLQuery_analysis.sql - SQL queries used for analysis
+retail_data_analysis.pbix - Power BI dashboard file
+Data_retail.xlsx - Dataset used for the project
+
+
+🚀 Conclusion & Recommendations
+✅ Implement a loyalty program to retain high-value customers.
+✅ Increase marketing efforts in slow-sales months.
+✅ Optimize inventory allocation for underperforming stores.
+✅ Consider expansion in high-revenue cities based on geographic sales analysis.
+
+🔗 GitHub Repository & LinkedIn Post
+GitHub Link: https://github.com/aasthakulkarni/retail_data-analysis-
+LinkedIn Post: linkedin.com/in/aastha-kulkarni-386b84258 
